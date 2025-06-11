@@ -1,7 +1,7 @@
 # Password Generator
 # Author: Lucas Faria
 # Date: 06/11/25
-# Description: A Python script that generates secure random passwords with customizable
+# Description: A Python script that generates secure random passwords with customizable length and character sets.
 # Day 5/100
 
 
